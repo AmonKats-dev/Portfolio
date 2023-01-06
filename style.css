@@ -356,6 +356,9 @@ nav .fa-solid{
         display: block;
         margin-top: 40px;
     }
+    #profile-photo{
+        border-radius: 260px;
+    }
     .header-text{
         margin-bottom: 100px;
         font-size: 25px;
